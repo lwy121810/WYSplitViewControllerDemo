@@ -15,6 +15,16 @@
 		94793B5F1D8FC11000807EEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94793B5D1D8FC11000807EEB /* LaunchScreen.storyboard */; };
 		94793B6A1D8FC11000807EEB /* WYSplitViewControllerDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 94793B691D8FC11000807EEB /* WYSplitViewControllerDemoTests.m */; };
 		94793B751D8FC11000807EEB /* WYSplitViewControllerDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 94793B741D8FC11000807EEB /* WYSplitViewControllerDemoUITests.m */; };
+		94793B8A1D8FC59100807EEB /* WYRightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94793B881D8FC59100807EEB /* WYRightViewController.m */; };
+		94793B8B1D8FC59100807EEB /* WYRightViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94793B891D8FC59100807EEB /* WYRightViewController.xib */; };
+		94793B8F1D8FC8F900807EEB /* WYLeftTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94793B8D1D8FC8F900807EEB /* WYLeftTableViewController.m */; };
+		94793B901D8FC8F900807EEB /* WYLeftTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94793B8E1D8FC8F900807EEB /* WYLeftTableViewController.xib */; };
+		94793B941D8FCA8F00807EEB /* WYOneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94793B921D8FCA8F00807EEB /* WYOneViewController.m */; };
+		94793B951D8FCA8F00807EEB /* WYOneViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94793B931D8FCA8F00807EEB /* WYOneViewController.xib */; };
+		94793B991D8FCA9F00807EEB /* WYTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94793B971D8FCA9F00807EEB /* WYTwoViewController.m */; };
+		94793B9A1D8FCA9F00807EEB /* WYTwoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94793B981D8FCA9F00807EEB /* WYTwoViewController.xib */; };
+		94793B9E1D8FCAAC00807EEB /* WYThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94793B9C1D8FCAAC00807EEB /* WYThreeViewController.m */; };
+		94793B9F1D8FCAAC00807EEB /* WYThreeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94793B9D1D8FCAAC00807EEB /* WYThreeViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,21 @@
 		94793B701D8FC11000807EEB /* WYSplitViewControllerDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WYSplitViewControllerDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94793B741D8FC11000807EEB /* WYSplitViewControllerDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WYSplitViewControllerDemoUITests.m; sourceTree = "<group>"; };
 		94793B761D8FC11000807EEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94793B871D8FC59100807EEB /* WYRightViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYRightViewController.h; sourceTree = "<group>"; };
+		94793B881D8FC59100807EEB /* WYRightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYRightViewController.m; sourceTree = "<group>"; };
+		94793B891D8FC59100807EEB /* WYRightViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WYRightViewController.xib; sourceTree = "<group>"; };
+		94793B8C1D8FC8F900807EEB /* WYLeftTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYLeftTableViewController.h; sourceTree = "<group>"; };
+		94793B8D1D8FC8F900807EEB /* WYLeftTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYLeftTableViewController.m; sourceTree = "<group>"; };
+		94793B8E1D8FC8F900807EEB /* WYLeftTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WYLeftTableViewController.xib; sourceTree = "<group>"; };
+		94793B911D8FCA8F00807EEB /* WYOneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYOneViewController.h; sourceTree = "<group>"; };
+		94793B921D8FCA8F00807EEB /* WYOneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYOneViewController.m; sourceTree = "<group>"; };
+		94793B931D8FCA8F00807EEB /* WYOneViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WYOneViewController.xib; sourceTree = "<group>"; };
+		94793B961D8FCA9F00807EEB /* WYTwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYTwoViewController.h; sourceTree = "<group>"; };
+		94793B971D8FCA9F00807EEB /* WYTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYTwoViewController.m; sourceTree = "<group>"; };
+		94793B981D8FCA9F00807EEB /* WYTwoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WYTwoViewController.xib; sourceTree = "<group>"; };
+		94793B9B1D8FCAAC00807EEB /* WYThreeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYThreeViewController.h; sourceTree = "<group>"; };
+		94793B9C1D8FCAAC00807EEB /* WYThreeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYThreeViewController.m; sourceTree = "<group>"; };
+		94793B9D1D8FCAAC00807EEB /* WYThreeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WYThreeViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +126,9 @@
 		94793B4E1D8FC11000807EEB /* WYSplitViewControllerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				94793BA21D8FDB9E00807EEB /* RightChildVc */,
+				94793BA11D8FDB9900807EEB /* rightVC */,
+				94793BA01D8FDB9300807EEB /* leftVc */,
 				94793B521D8FC11000807EEB /* AppDelegate.h */,
 				94793B531D8FC11000807EEB /* AppDelegate.m */,
 				94793B551D8FC11000807EEB /* ViewController.h */,
@@ -138,6 +166,42 @@
 				94793B761D8FC11000807EEB /* Info.plist */,
 			);
 			path = WYSplitViewControllerDemoUITests;
+			sourceTree = "<group>";
+		};
+		94793BA01D8FDB9300807EEB /* leftVc */ = {
+			isa = PBXGroup;
+			children = (
+				94793B8C1D8FC8F900807EEB /* WYLeftTableViewController.h */,
+				94793B8D1D8FC8F900807EEB /* WYLeftTableViewController.m */,
+				94793B8E1D8FC8F900807EEB /* WYLeftTableViewController.xib */,
+			);
+			name = leftVc;
+			sourceTree = "<group>";
+		};
+		94793BA11D8FDB9900807EEB /* rightVC */ = {
+			isa = PBXGroup;
+			children = (
+				94793B871D8FC59100807EEB /* WYRightViewController.h */,
+				94793B881D8FC59100807EEB /* WYRightViewController.m */,
+				94793B891D8FC59100807EEB /* WYRightViewController.xib */,
+			);
+			name = rightVC;
+			sourceTree = "<group>";
+		};
+		94793BA21D8FDB9E00807EEB /* RightChildVc */ = {
+			isa = PBXGroup;
+			children = (
+				94793B911D8FCA8F00807EEB /* WYOneViewController.h */,
+				94793B921D8FCA8F00807EEB /* WYOneViewController.m */,
+				94793B931D8FCA8F00807EEB /* WYOneViewController.xib */,
+				94793B961D8FCA9F00807EEB /* WYTwoViewController.h */,
+				94793B971D8FCA9F00807EEB /* WYTwoViewController.m */,
+				94793B981D8FCA9F00807EEB /* WYTwoViewController.xib */,
+				94793B9B1D8FCAAC00807EEB /* WYThreeViewController.h */,
+				94793B9C1D8FCAAC00807EEB /* WYThreeViewController.m */,
+				94793B9D1D8FCAAC00807EEB /* WYThreeViewController.xib */,
+			);
+			name = RightChildVc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,6 +266,7 @@
 		94793B441D8FC11000807EEB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = WY;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = lwy1218;
 				TargetAttributes = {
@@ -244,8 +309,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				94793B5F1D8FC11000807EEB /* LaunchScreen.storyboard in Resources */,
+				94793B9F1D8FCAAC00807EEB /* WYThreeViewController.xib in Resources */,
+				94793B9A1D8FCA9F00807EEB /* WYTwoViewController.xib in Resources */,
 				94793B5C1D8FC11000807EEB /* Assets.xcassets in Resources */,
+				94793B901D8FC8F900807EEB /* WYLeftTableViewController.xib in Resources */,
 				94793B5A1D8FC11000807EEB /* Main.storyboard in Resources */,
+				94793B8B1D8FC59100807EEB /* WYRightViewController.xib in Resources */,
+				94793B951D8FCA8F00807EEB /* WYOneViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,8 +341,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				94793B571D8FC11000807EEB /* ViewController.m in Sources */,
+				94793B9E1D8FCAAC00807EEB /* WYThreeViewController.m in Sources */,
 				94793B541D8FC11000807EEB /* AppDelegate.m in Sources */,
+				94793B8F1D8FC8F900807EEB /* WYLeftTableViewController.m in Sources */,
+				94793B941D8FCA8F00807EEB /* WYOneViewController.m in Sources */,
+				94793B8A1D8FC59100807EEB /* WYRightViewController.m in Sources */,
 				94793B511D8FC11000807EEB /* main.m in Sources */,
+				94793B991D8FCA9F00807EEB /* WYTwoViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
